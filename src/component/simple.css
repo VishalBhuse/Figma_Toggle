@@ -1,0 +1,23 @@
+.dark
+{
+    background-color: rgb(19, 17, 17);
+    color: white;
+
+}
+.light
+{
+    background-color: white;
+    color: #222121;
+}
+.dark1
+{
+   background-color: rgba(37, 37, 37, 0.808);
+   box-shadow: rgba(243, 243, 247, 0.1) 0px 4px 16px, rgba(206, 206, 207, 0.1) 0px 8px 24px, rgba(231, 231, 235, 0.1) 0px 16px 56px;
+   
+}
+.light1
+{
+    background-color: white;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+   
+}
