@@ -1,5 +1,9 @@
 ## Sample Output:
+### `Light Mode'
 ![image](https://user-images.githubusercontent.com/101569259/172048092-a999877c-e944-40e0-90ae-c2c2b4fb569e.png)
+### `Dark Mode` 
+![image](https://user-images.githubusercontent.com/101569259/172048115-514fa5d2-9289-490d-a3b1-0869544bdfbd.png)
+
 
 # Getting Started with Create React App
 
